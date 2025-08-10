@@ -1,6 +1,6 @@
 # Artifact: Sprint Review and Retrospective
 **Course:** CS-250 – Software Development Lifecycle  
-**Date:** [Insert date]
+**Date:** 08/09/2025
 
 ---
 
