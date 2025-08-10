@@ -2,6 +2,8 @@
 **Course:** CS-250 – Software Development Lifecycle  
 **Date:** 08/09/2025
 
+[📄 View Sprint Review & Retrospective Document](Sprint%20Review%20and%20Retrospective.docx)
+
 ---
 
 ## Reflection
